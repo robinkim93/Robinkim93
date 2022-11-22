@@ -18,8 +18,8 @@ Hi, My name is **Taek-soo**
 
 
 
-<img align=left src="https://github-readme-stats.vercel.app/api?username=Robinkim93&show_icons=true&theme=synthwave">
+<img width="50%" align=left src="https://github-readme-stats.vercel.app/api?username=Robinkim93&show_icons=true&theme=synthwave">
 
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact">
+ <img width="41%" height="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact">
 
                            
