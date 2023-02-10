@@ -1,6 +1,7 @@
 ## Welcome! :metal:
 
 Hi, My name is **Taek-soo**
+<div>my blog : https://dev-robinkim-93.tistory.com/</div>
 
 
 
